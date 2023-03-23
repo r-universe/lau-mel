@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rocc"]
+	path = rocc
+	url = https://github.com/cran/rocc
+	shallow = true
+	registered = true
+[submodule "swamp"]
+	path = swamp
+	url = https://github.com/cran/swamp
+	shallow = true
+	registered = true
